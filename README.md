@@ -23,6 +23,7 @@ The project aims to demonstrate the effectiveness of using deep learning and dro
 
 ## **Dataset** <a name="Dataset"></a>
 
+To create the dataset, we flew a UAV over "Avenida de las Palmas" in Antioquia - Colombia  and captured orthophotos of the road and the surronded vegetation along with the powerline corridor. Then, stich the images to create orthophotos, then manually labeled the vegetation (polygons) and power lines (lines). After labeling, TIFF files were generated, and using the code provided in this repository, split the data and selected the subsets suitable for training.
 
 ## **Methodology**<a name="Methodology"></a>
 
