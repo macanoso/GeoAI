@@ -11,6 +11,7 @@ This project focuses on the development of a deep learning model for the segment
 5. [Usage](#Usage)
 6. [Contributing](#Contributing)
 7. [License](#License)
+8. [Conclusion](#Conclusion)
 
 ## **Introduction**  <a name="Introduction"></a>
 Vegetation encroachment is a critical environmental issue that can have significant impacts on natural ecosystems and human activities. Identifying and monitoring vegetation encroachment in natural environments is essential for effective management and conservation efforts. In recent years, the increasing availability of drone-acquired data and advancements in deep learning techniques have opened up new opportunities for automated vegetation mapping and analysis.
