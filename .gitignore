@@ -1,3 +1,8 @@
 images/*
 .venv/*
 *.pdf
+Training/*
+Train_v2/*
+aum_v2/*
+aum_espectral/*
+aum_geometric/*

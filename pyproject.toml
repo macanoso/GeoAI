@@ -14,6 +14,7 @@ imagecodecs = "^2023.1.23"
 opencv-python = "^4.7.0.72"
 scikit-image = "^0.20.0"
 rioxarray = "^0.13.4"
+tqdm = "^4.65.0"
 
 [build-system]
 requires = ["poetry-core"]
