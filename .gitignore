@@ -1,0 +1,9 @@
+*.png
+*.jpg
+.venv
+logs/
+aum_espectral/
+TESELLATED_WITH_GEOMETRIC_AUGMENTATION/
+Train_v2/
+Training/
+GEOAI/
